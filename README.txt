@@ -16,7 +16,8 @@ Data Reading:
 		TWI_ReadNACK()
 
 Detailed Specifications:
-	Clock rate being used is 100 KHz which is typical for most of sensors. You can change it by defining F_SCL at desired frequency.
+	Clock rate being used is 100 KHz which is typical for most of sensors.
+	You can change it by defining F_SCL at desired frequency.
 	All functions for reading data return data in 'unsigned char' data type.
 	 
 	
